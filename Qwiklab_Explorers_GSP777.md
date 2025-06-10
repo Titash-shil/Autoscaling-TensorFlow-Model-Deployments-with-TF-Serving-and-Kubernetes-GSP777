@@ -1,6 +1,6 @@
 # Autoscaling TensorFlow Model Deployments with TF Serving and Kubernetes || [GSP777](https://www.cloudskillsboost.google/focuses/17649?parent=catalog) ||
 
-## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
+## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@qwiklabexplorers?si=QGN7mY2Sn9iobmuz) 👍😄🤝
 
 ---
 ## ⚠️ **Disclaimer:**
@@ -24,6 +24,6 @@ sudo chmod +x qwiklab_explorers_gsp777.sh
 
 ## Thank you for visiting.... :) 🗯️
 
-## [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
+## [Qwiklab_Explorers](https://youtube.com/@qwiklabexplorers?si=QGN7mY2Sn9iobmuz)
 
 ## Join to our community [Digital Dominators](https://linktr.ee/digital_dominators)
