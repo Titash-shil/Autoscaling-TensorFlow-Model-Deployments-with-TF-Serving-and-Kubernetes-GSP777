@@ -10,11 +10,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Migrate-Existing-Prometheus-Monitoring-Workloads-to-Google-Cloud-GSP1025/refs/heads/main/qwiklab_explorers_gsp1025.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Autoscaling-TensorFlow-Model-Deployments-with-TF-Serving-and-Kubernetes-GSP777/refs/heads/main/qwiklab_explorers_gsp777.sh
 
-sudo chmod +x qwiklab_explorers_gsp1025.sh
+sudo chmod +x qwiklab_explorers_gsp777.sh
 
-./qwiklab_explorers_gsp1025.sh
+./qwiklab_explorers_gsp777.sh
 ```
 ---
 
